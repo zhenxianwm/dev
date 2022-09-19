@@ -1,0 +1,79 @@
+ua   3373
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-first\car-first.component.html   31
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-first\car-first.component.scss   28
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-first\car-first.component.spec.ts   24
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-first\car-first.component.ts   132
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\accident-info.service.ts   165
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\accident-info.service.spec.ts   12
+C:\Users\真仙无名\wic-ua-fire\src\frontend\src\environments\environment.ts   修改  2
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-second\car-second.component.html   44
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-second\car-second.component.scss   0
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-second\car-second.component.spec.ts   24
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-second\car-second.component.ts   190
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\upload-file-info.service.ts   119
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\upload-file-info.service.spec.ts   12
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\constants\upload-picture.ts   5
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\parts\input-upload-picture\input-upload-picture.component.html   56
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\parts\input-upload-picture\input-upload-picture.component.scss   17
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\parts\input-upload-picture\input-upload-picture.component.spec.ts   24
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\parts\input-upload-picture\input-upload-picture.component.ts   202
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-third\car-third.component.html   54
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-third\car-third.component.scss   12
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-third\car-third.component.spec.ts   24
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-third\car-third.component.ts   279
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\uploading-url.service.ts   97
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\uploading-url.service.spec.ts   12
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\constants\upload-error-name.ts   4
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\content-sets.service.ts   54
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\content-sets.service.spec.ts   12
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\s3-upload.service.ts   95
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\s3-upload.service.spec.ts   12
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\frontend-log.service.ts   44
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\frontend-log.service.spec.ts   12
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-fourth\car-fourth.component.html   16
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-fourth\car-fourth.component.scss   14
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-fourth\car-fourth.component.spec.ts   24
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\component\auto\car-fourth\car-fourth.component.ts   71
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\urls-for-customers.service.ts   63
+C:\Users\真仙无名\wic-ua-auto\src\frontend\src\app\service\urls-for-customers.service.spec.ts   12
+
+
+C:\Users\真仙无名\wic-ua-auto\src\backend\ua_auto\chalicelib\uploader.py   204
+C:\Users\真仙无名\wic-ua-auto\src\backend\ua_auto\chalicelib\frontend_log.py   42
+C:\Users\真仙无名\wic-ua-auto\src\backend\ua_auto\chalicelib\content_set.py   464
+C:\Users\真仙无名\wic-cl\src\common\chalicelib\url_for_customers\url_for_customers.py   526
+C:\Users\真仙无名\wic-cl\src\common\chalicelib\url_for_customers\validator.py   135
+C:\Users\真仙无名\wic-cl\src\common\chalicelib\url_for_customers\__init__.py   1
+C:\Users\真仙无名\wic-cl\src\common\chalicelib\url_for_customers\requirements.txt   3
+
+
+
+oc 4524
+C:\Users\真仙无名\wic-oc\src\frontend\oc\src\component\AutoEditDialog.vue   243
+C:\Users\真仙无名\wic-oc\src\frontend\oc\src\pages\WicAutoDetail.vue   600(827)
+C:\Users\真仙无名\wic-oc\src\frontend\oc\src\pages\WicAutoList.vue   807
+C:\Users\真仙无名\wic-oc\src\frontend\oc\src\pages\WicAutoUrl.vue   425
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\app.py   327(427)
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\accident_detail\__init__.py   1
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\accident_detail\accident_detail.py   325
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\accident_detail\validator.py   90
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\common\__init__.py   1
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\common\convert_datetime.py   17
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\common\validate_set_id.py   32
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\content_set_list\__init__.py   1
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\content_set_list\content_set_list.py   307
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\content_set_list\validator.py   224
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\contents\__init__.py   1
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\contents\contents_defs.py   7
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\contents\contents.py   188
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\contents\download.py   497
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\contents\s3_util.py   68
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\contents\validator.py    70(276)
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\history_of_update\__init__.py   1
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\history_of_update\history_of_update.py   179
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\history_of_update\validator.py   32
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\search_params\__init__.py   1
+C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\search_params\search_params.py   80
+
+
+
