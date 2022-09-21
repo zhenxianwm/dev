@@ -76,4 +76,20 @@ C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\search_params\__init
 C:\Users\真仙无名\wic-oc\src\backend\oc_auto\chalicelib\search_params\search_params.py   80
 
 
+st
+C:\Users\真仙无名\wic-cd\deploy\aws\wic\component\st_auto\__init__.py   71
+C:\Users\真仙无名\wic-st\src\daily_report_auto\requirements.txt   5
+C:\Users\真仙无名\wic-st\src\daily_report_auto\app.py   61
+C:\Users\真仙无名\wic-st\src\daily_report_auto\.chalice\config.json   38
+C:\Users\真仙无名\wic-st\src\daily_report_auto\.chalice\policy.json   43
+C:\Users\真仙无名\wic-st\src\daily_report_auto\chalicelib\__init__.py   1
+C:\Users\真仙无名\wic-st\src\daily_report_auto\chalicelib\daily_content_set_report.py   410
+C:\Users\真仙无名\wic-st\src\daily_report_auto\chalicelib\daily_report_defs.py   4
+C:\Users\真仙无名\wic-st\src\daily_report_auto\chalicelib\error.py   5
+C:\Users\真仙无名\wic-st\src\daily_report_auto\chalicelib\validator.py   28
+C:\Users\真仙无名\wic-st\mail_template\auto_daily_mail_template.txt   5
+C:\Users\真仙无名\wic-st\mail_template\auto_monthly_mail_template.txt   5
+
+
+
 
